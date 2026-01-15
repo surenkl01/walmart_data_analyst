@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-<img width="1536" height="1024" alt="walmart_pipeline" src="https://github.com/user-attachments/assets/9083d551-aa4c-4493-bed2-afde374accc5" />
+<img width="1536" height="1024" alt="walmart_project_pipeline" src="https://github.com/user-attachments/assets/62241c2b-b89d-4998-b777-585b7f1ebe3d" />
+
 
 
 
